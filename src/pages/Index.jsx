@@ -3,8 +3,8 @@
 const Index = () => {
   return (
     <div className="text-center">
-      <h1 className="text-3xl">Your Blank Canvas</h1>
-      <p>Chat with the agent to start making edits.</p>
+      <h1 className="text-3xl">Welcome to MyApp</h1>
+      <p>This is your starting point. Customize it as you wish!</p>
     </div>
   );
 };
